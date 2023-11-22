@@ -5,7 +5,7 @@ info:
   contact: {}
   version: "1.0"
 servers:
-  - url: "https://webexapis.com/v1/"
+  - url: "https://api.ciscospark.com/v1"
     variables: {}
 paths:
   "/adminAudit/events":
